@@ -17,3 +17,5 @@ $ ./run.sh
 ```
 
 `unik.txt` ditampilkan dengan visualisasi dan pengelompokan kata berdasarkan penyusun kata(_vokal_ dan _konsonan_) paling dasar.
+
+[unik.txt](./unik_showcase.png)
