@@ -19,9 +19,17 @@ $ ./run.sh
 
 `unik.txt` ditampilkan dengan visualisasi dan pengelompokan kata berdasarkan penyusun kata(_vokal_ dan _konsonan_) paling dasar.
 
-![unik.txt](./unik_showcase.png)
 
 ```
+ma      1604 ['abai-ma-na', 'ab-nor-ma-li-tas', 'ade-no-ma', 'adi-ta-ma', 'afir-ma-si', 'afir-ma-tif', 'aga-ma', 'ber-a-ga-ma', 'ke-ber-a-ga-ma-an', 'meng-a-ga-ma-kan', 'ke-a-ga-ma-an', 'aga-ma-is', 'aga-ma-wi', 'ak-la-ma-si', 'ak-li-ma-ti-sa-si', 'ak-si-o-ma', 'ak-si-o-ma-tis', 'aku-a-ma-rin', 'alak-ri-ma', 'ala-ma-tul-ha-yat', 'al-ma-lik', 'al-ma-ma-ter', 'al-ma-ma-ter', 'al-ma-nak', 'al-ma-sih', 'amal-ga-ma-si', 'amal-ga-ma-tor', 'meng-a-ma-nah-kan', 'peng-a-ma-nah', 'ber-a-ma-nat', 'meng-a-ma-nat-kan', 'meng-a-ma-nati', 'peng-a-ma-nat-an', 'meng-am-bek-pa-ra-ma-ar-ta-kan', 'peng-am-bek-pa-ra-ma-ar-ta-an', 'an-gi-o-sper-ma', 'ani-ma-si', 'ano-ma-li', 'an-ta-ke-su-ma', 'an-ti-ma-te-ri', 'apo-kro-ma-tik', 'apo-se-ma-tik', 'ar-ma-da', 'aro-ma', 'aro-ma-tik', 'as-ma-ra', 'ber-as-ma-ra', 'as-ma-ra-dan-ta', 'as-ma-ra-ga-ma', 'as-ma-ra-ga-ma']
+mab        3 ['de-mab-ra-si', 'mab-ri-uk', 'mab-rur']
+mad        5 ['mad-ma-dah', 'mad-ras', 'mad-ra-sah', 'muk-ta-mad', 'sa-mad']
+mae        2 ['mae-san', 'mae-se-nas']
+maes       1 ['maes-tro']
+                                                                              .
+                                                                              .
+                                                                              .
+                                                                              .
 kui        7 ['meng-a-kui', 're-kui-em', 're-kui-si-si', 're-kui-si-tor', 're-li-kui', 'se-kui', 'so-li-lo-kui']
 kuk       55 ['ter-a-kuk', 'ang-kuk', 'be-kuk', 'mem-be-kuk', 'pem-be-kuk-an', 'bung-kuk', 'mem-bung-kuk', 'mem-bung-kuk-bung-kuk', 'mem-bung-kuk-bung-kuk', 'ter-bung-kuk-bung-kuk', 'ter-bung-kuk-bung-kuk', 'men-cang-kuk', 'ce-kuk', 'ki-kuk', 'ke-ki-kuk-an', 'le-kak-le-kuk', 'le-kuk', 'ber-le-kuk', 'ber-le-kuk-le-kuk', 'ber-le-kuk-le-kuk', 'me-le-kuk', 'me-le-kuk-kan', 'mang-kuk', 'se-mang-kuk', 'pa-kuk', 'me-ma-kuk', 'pa-ne-kuk', 'pe-kik-pe-kuk', 'me-me-kuk', 'pe-le-kuk', 'ra-kuk', 'be-ra-kuk', 'ring-kuk', 'me-ring-kuk', 'me-ring-kuk-kan', 'ru-kuk', 'me-ru-kuk', 'se-pe-kuk', 'spe-kuk', 'sung-kuk', 'ter-sung-kuk', 'ter-sung-kuk-sung-kuk', 'ter-sung-kuk-sung-kuk', 'ta-kuk', 'ber-ta-kuk', 'me-na-kuk', 'tang-kuk', 'me-nang-kuk', 'ber-te-kuk', 'me-ne-kuk']
 kul       82 ['aku-a-kul-tur', 'ang-kul-ang-kul', 'ang-kul-ang-kul', 'an-tar-mo-le-kul', 'api-kul-tur', 'ar-bo-ri-kul-tur', 'aus-kul-ta-si', 'avi-kul-tur', 'bung-kul', 'men-cang-kul', 'deng-kul', 'men-deng-kul', 'dis-kul-pa-si', 'en-kul-tu-ra-si', 'fa-kul-tas', 'fa-kul-ta-tif', 'ha-kul-ya-kin', 'hor-ti-kul-tu-ra', 'hor-ti-kul-tu-ris', 'in-kul-tu-ra-si', 'in-tra-mo-le-kul', 'kes-kul', 'kul-kas', 'kul-mi-na-si', 'kul-ti-var', 'kul-ti-va-si', 'kul-tu-ral', 'kul-tu-ri-sa-si', 'kul-tus', 'kul-zum', 'mak-ro-mo-le-kul', 'ma-kul', 'ma-li-kul-ja-bar', 'ma-li-kul-mu-luk', 'ma-ri-kul-tur', 'min-ta-kul-bu-ruj', 'mo-le-kul', 'mo-no-kul-tur', 'mul-ti-kul-tur', 'mul-ti-kul-tu-ral-is-me', 'pi-kul', 'ber-pi-kul-pi-kul', 'ber-pi-kul-pi-kul', 'me-mi-kul', 'me-mi-kul-kan', 'pi-kul-an', 'pe-mi-kul', 'po-li-kul-tur', 'me-mu-kul', 'pu-kul-me-mu-kul']
